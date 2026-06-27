@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Electron+%26+Desktop+App+Developer;Discord+Bot+Creator;Website+Builder;FiveM+Script+Developer;Always+building+something+new..." alt="Typing SVG"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dodo-CB&color=a78bfa&style=for-the-badge&label=Profile+Views"/>
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -39,24 +43,50 @@ Hey! I'm Clowny, a developer from Germany passionate about building useful and c
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎬 [ZoomCast](https://github.com/Clowny-CB/ZoomCast) | Screen recorder with automatic zoom effects on mouse clicks | Electron · React · FFmpeg |
+| 🎬 [ZoomCast](https://github.com/Dodo-CB/ZoomCast) | Screen recorder with automatic zoom effects on mouse clicks | Electron · React · FFmpeg |
 | 🤖 [ClownBot](https://clownbot.de) | Feature-rich Discord bot for server management — fast, secure & scalable | Discord.js · Node.js |
-| 🖱️ [Keyboard-AutoClicker-PRO](https://github.com/Clowny-CB/Keyboard-AutoClicker-PRO) | AutoClicker with animated GUI, presets & customizable hotkeys up to 100 clicks/sec | Python · CustomTkinter |
+| 🖱️ [Keyboard-AutoClicker-PRO](https://github.com/Dodo-CB/Keyboard-AutoClicker-PRO) | AutoClicker with animated GUI, presets & customizable hotkeys up to 100 clicks/sec | Python · CustomTkinter |
 | 🎮 FiveM Scripts | Custom scripts & resources for FiveM GTA V roleplay servers | Lua · JavaScript |
 
 ---
 
 ## 🌐 Connect with me
 
-[![YouTube](https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ClownyHabub_s)
+[![YouTube](https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DodoHabub_s)
 [![ClownBot Discord](https://img.shields.io/badge/ClownBot_Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z52qtypcj2)
 ![Discord](https://img.shields.io/badge/dodo__semtex-A78BFA?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
+## 📊 Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clowny-CB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clowny-CB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dodo-CB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodo-CB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dodo-CB&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="100%"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dodo-CB&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=a78bfa&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dodo-CB/Dodo-CB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 <div align="center">
