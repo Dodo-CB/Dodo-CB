@@ -70,7 +70,7 @@ Hey! I'm Clowny, a developer from Germany passionate about building useful and c
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dodo-CB&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dodo-CB&theme=discord&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </div>
 
 ---
