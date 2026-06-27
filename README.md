@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Electron+%26+Desktop+App+Developer;Discord+Bot+Creator;ClownBot+%E2%80%94+clownbot.de;Always+building+something+new..." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Electron+%26+Desktop+App+Developer;Discord+Bot+Creator;Website+Builder;FiveM+Script+Developer;Always+building+something+new..." alt="Typing SVG"/>
 </div>
 
 ---
@@ -40,10 +40,10 @@ Hey! I'm Dodo, a developer from Germany passionate about building useful and cre
 | Project | Description | Tech |
 |---|---|---|
 | 🎬 [ZoomCast](https://github.com/Dodo-CB/ZoomCast) | Screen recorder with automatic zoom effects on mouse clicks | Electron · React · FFmpeg |
-| 🎯 Blackwards Dart Scorer | Auto-scoring dart system using webcam + computer vision | Electron · Canvas API |
 | 🤖 [ClownBot](https://clownbot.de) | Feature-rich Discord bot for server management — fast, secure & scalable | Discord.js · Node.js |
 | 🖱️ [Keyboard-AutoClicker-PRO](https://github.com/Dodo-CB/Keyboard-AutoClicker-PRO) | AutoClicker with animated GUI, presets & customizable hotkeys up to 100 clicks/sec | Python · CustomTkinter |
 | 🏍️ [Bandoleros MC](https://github.com/Dodo-CB/bandoleros-mc) | Static website for a motorcycle club with member pages & application form | HTML · CSS |
+| 🎮 FiveM Scripts | Custom scripts & resources for FiveM GTA V roleplay servers | Lua · JavaScript |
 
 ---
 
