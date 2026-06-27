@@ -42,7 +42,6 @@ Hey! I'm Dodo, a developer from Germany passionate about building useful and cre
 | 🎬 [ZoomCast](https://github.com/Dodo-CB/ZoomCast) | Screen recorder with automatic zoom effects on mouse clicks | Electron · React · FFmpeg |
 | 🤖 [ClownBot](https://clownbot.de) | Feature-rich Discord bot for server management — fast, secure & scalable | Discord.js · Node.js |
 | 🖱️ [Keyboard-AutoClicker-PRO](https://github.com/Dodo-CB/Keyboard-AutoClicker-PRO) | AutoClicker with animated GUI, presets & customizable hotkeys up to 100 clicks/sec | Python · CustomTkinter |
-| 🏍️ [Bandoleros MC](https://github.com/Dodo-CB/bandoleros-mc) | Static website for a motorcycle club with member pages & application form | HTML · CSS |
 | 🎮 FiveM Scripts | Custom scripts & resources for FiveM GTA V roleplay servers | Lua · JavaScript |
 
 ---
