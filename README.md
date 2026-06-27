@@ -67,10 +67,10 @@ Hey! I'm Clowny, a developer from Germany passionate about building useful and c
 
 ---
 
-## 🏆 Trophies
+## 🔥 Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dodo-CB&theme=discord&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Dodo-CB&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
 </div>
 
 ---
