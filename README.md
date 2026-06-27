@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I%27m%20Dodo%20%F0%9F%91%8B&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Gamer&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I%27m%20Clowny%20%F0%9F%91%8B&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Gamer&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm Dodo, a developer from Germany passionate about building useful and creative software.
+Hey! I'm Clowny, a developer from Germany passionate about building useful and creative software.
 
 - 📍 Based in **Germany**
 - 💻 Currently building **ZoomCast** — a screen recorder with automatic zoom effects
@@ -39,24 +39,24 @@ Hey! I'm Dodo, a developer from Germany passionate about building useful and cre
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎬 [ZoomCast](https://github.com/Dodo-CB/ZoomCast) | Screen recorder with automatic zoom effects on mouse clicks | Electron · React · FFmpeg |
+| 🎬 [ZoomCast](https://github.com/Clowny-CB/ZoomCast) | Screen recorder with automatic zoom effects on mouse clicks | Electron · React · FFmpeg |
 | 🤖 [ClownBot](https://clownbot.de) | Feature-rich Discord bot for server management — fast, secure & scalable | Discord.js · Node.js |
-| 🖱️ [Keyboard-AutoClicker-PRO](https://github.com/Dodo-CB/Keyboard-AutoClicker-PRO) | AutoClicker with animated GUI, presets & customizable hotkeys up to 100 clicks/sec | Python · CustomTkinter |
+| 🖱️ [Keyboard-AutoClicker-PRO](https://github.com/Clowny-CB/Keyboard-AutoClicker-PRO) | AutoClicker with animated GUI, presets & customizable hotkeys up to 100 clicks/sec | Python · CustomTkinter |
 | 🎮 FiveM Scripts | Custom scripts & resources for FiveM GTA V roleplay servers | Lua · JavaScript |
 
 ---
 
 ## 🌐 Connect with me
 
-[![YouTube](https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DodoHabub_s)
+[![YouTube](https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ClownyHabub_s)
 [![ClownBot Discord](https://img.shields.io/badge/ClownBot_Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z52qtypcj2)
 ![Discord](https://img.shields.io/badge/dodo__semtex-A78BFA?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dodo-CB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodo-CB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Clowny-CB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clowny-CB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
